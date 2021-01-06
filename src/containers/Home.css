@@ -1,0 +1,10 @@
+.home {
+	width: 100%;
+	justify-content: center;
+}
+
+.home__section {
+	display: flex;
+	padding: 30px;
+	justify-content: center;
+}
